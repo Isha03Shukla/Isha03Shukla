@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Isha03Shukla
 - 👀 I’m interested in Web development, Machine Learning, Java, C and Python.
-- 🌱 I’m a 3rd year Undergraduate at KIIT Bhubaneswar, pursuing B.Tech in Electronics and Telecommunication.
 - 💞️ I’m looking to collaborate on Web Development and Data Science.
 - 📫 How to reach me isha03shukla04@gmail.com
 

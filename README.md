@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey+Everyone!🕹️&animation=fadeIn&type=waving&color=#6F00FF&height=100"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=नमस्ते!🙏🏻+मैं+ईशा+शुक्ला+हूँ" />
 </p>
 
 # 👋 Hi, I'm **Isha Shukla**!  

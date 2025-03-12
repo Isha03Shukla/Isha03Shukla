@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=नमस्ते!🙏🏻+मैं+ईशा+शुक्ला+हूँ" />
-</p>
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='80'>
 
-# 👋 Hi, I'm **Isha Shukla**!(She/Her)
+# 👋 Hi, I'm Isha Shukla!
+
+
 ## 📊 Data Analyst | SQL | Python | Tableau | Machine Learning  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Turning+Data+into+Actionable+Insights!;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+ML;Passionate+about+Data+Analytics+and+Visualization!+🚀)  
@@ -21,11 +21,19 @@
 ---
 
 ## 🛠 Tech Stack
-**Data Tools:** Excel, SQL  
-**Business Intelligence:** Power BI, Tableau  
-**Coding Skills:** Python, R  
-**AI Tools:** ChatGPT  
-**Collaboration:** Microsoft Teams, Slack, JIRA  
+<p>
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=google-sheets&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-SQL-3776AB?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Microsoft Teams" src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="JIRA" src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jirasoftware&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0189D6?style=flat-square&logo=azure-icon&logoColor=white" />
+</p>
 
 ---
 
@@ -68,9 +76,9 @@
 
 ## 🌎 Let's Connect!  
 <p align="center">
-  <a href="https://www.linkedin.com/in/isha-shukla-184250211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <a href="https://github.com/Isha03Shukla"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
-  <a href="mailto:isha03shukla04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="https://www.linkedin.com/in/isha-shukla-184250211/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" alt="LinkedIn"/></a>  
+  <a href="https://github.com/Isha03Shukla"><img src="https://img.icons8.com/ios-glyphs/60/github.png" width="3.5%" alt="GitHub"/></a>  
+  <a href="mailto:isha03shukla04@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" alt="Gmail"/></a>  
 </p>  
 
 ---

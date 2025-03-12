@@ -20,17 +20,28 @@
 
 ## 🛠 Tech Stack
 <p>
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=google-sheets&logoColor=white" />
+  <img alt="microsoft-excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-SQL-3776AB?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Microsoft Teams" src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" />
+  <img alt="Google-Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" />
+  <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-000000?style=flat-square&logo=perplexity&logoColor=088F8F" />
+  <img alt="Microsoft Teams" src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white"/>
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-  <img alt="JIRA" src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jirasoftware&logoColor=white" />
+  <img alt="JIRA" src="https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0189D6?style=flat-square&logo=azure-icon&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=NumPy&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white"/>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=Jenkins&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img alt="Google-Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=flat-square&logo=googlecolab&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=Jupyter&logoColor=white"/>
 </p>
 
 ---

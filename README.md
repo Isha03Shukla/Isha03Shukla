@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=नमस्ते!🙏🏻+मैं+ईशा+शुक्ला+हूँ" />
 </p>
 
-# 👋 Hi, I'm **Isha Shukla**!  
+# 👋 Hi, I'm **Isha Shukla**!(She/Her)
 ## 📊 Data Analyst | SQL | Python | Tableau | Machine Learning  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Turning+Data+into+Actionable+Insights!;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+ML;Passionate+about+Data+Analytics+and+Visualization!+🚀)  
@@ -10,11 +10,13 @@
 ---
 
 ## 👩‍💻 About Me  
-- 🔍 Passionate about **data-driven decision making**  
-- 🏆 2+ years of experience in **Data Analytics & Machine Learning**  
-- 💡 Skilled in **Python, SQL, Tableau, Power BI, Excel, and Data Modeling**  
-- 🚀 Built models using **Random Forest, XGBoost, Logistic Regression, and SVM**  
-- 📈 Created **interactive dashboards in Tableau and Power BI**  
+🚀 **Passionate about data-driven decision making**  
+💡 **2+ years of experience in Data Analytics & Machine Learning**  
+📊 **Skilled in**:  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Python | SQL | Tableau | Power BI | Excel | Data Modeling | AI/ML <br>
+🌟 **Built models using**:  
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 Random Forest | XGBoost | Logistic Regression | SVM | KNN<br>
+📈 **Created interactive dashboards in Tableau & Power BI**  
 
 ---
 

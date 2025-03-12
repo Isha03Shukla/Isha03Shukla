@@ -76,7 +76,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/isha-shukla-184250211/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" alt="LinkedIn"/></a>    
   <a href="mailto:isha03shukla04@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" alt="Gmail"/></a>  
-  <a href="https://github.com/Isha03Shukla"><img src="https://img.icons8.com/ios-glyphs/60/github.png" width="3.5%" alt="GitHub"/></a>
+  <a href="https://github.com/Isha03Shukla"><img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" width="3.5%" alt="GitHub"/></a>
 </p>  
 
 ---

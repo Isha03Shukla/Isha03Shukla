@@ -64,7 +64,7 @@
 ---
 
 ## 🎓 Education  
-📌 **Deakin University, Australia** *(Oct 2024 - Present)*  
+📌 **Deakin University, Australia** *(Oct 2024 - Oct 2025)*  
 🎓 Master's Degree in Data Science *(Online)*  
 
 📌 **The University of Texas at Austin, United States** *(Sept 2023 - Sept 2024)*  

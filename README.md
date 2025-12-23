@@ -65,7 +65,7 @@
 
 ## 🎓 Education  
 📌 **Deakin University, Australia** *(Oct 2024 - Oct 2025)*  
-🎓 Master's Degree in Data Science *(Online)*  
+🎓 Master's Degree in Data Science *(Online)*  - **CGPA: 6.64/10.00**
 
 📌 **The University of Texas at Austin, United States** *(Sept 2023 - Sept 2024)*  
 🎓 Post Graduate Program in Data Science and Business Analytics *(Online)* - **CGPA: 3.97/5.00**  

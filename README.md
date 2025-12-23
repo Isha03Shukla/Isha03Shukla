@@ -75,11 +75,11 @@
 
 ---
 
-## 🏆 Certifications & Achievements  
-- 🏅 **Data Analysis using Excel - [Link](https://drive.google.com/file/d/12f-9hRBIKwLAQNkW5BYDM-b4dSrjB4za/view?usp=sharing)**  
-- 🏅 **SQL (Intermediate) - [HackerRank](https://www.hackerrank.com/certificates/292eb4845c20)**  
-- 🏅 **SQL (Advanced) - [HackerRank](https://www.hackerrank.com/certificates/940a1fd2fdab)**  
-- 🏆 **Ranked 5th among 180 students** in UT Austin's Data Analytics Program - **[Certificate](https://drive.google.com/file/d/1ewu6lVY8S54fZe0z9KLER44fi00S4W54/view?usp=sharing)**  
+## Certifications & Achievements  
+- **Data Analysis using Excel - [Link](https://drive.google.com/file/d/12f-9hRBIKwLAQNkW5BYDM-b4dSrjB4za/view?usp=sharing)**  
+- **SQL (Intermediate) - [HackerRank](https://www.hackerrank.com/certificates/292eb4845c20)**  
+- **SQL (Advanced) - [HackerRank](https://www.hackerrank.com/certificates/940a1fd2fdab)**  
+- **Ranked 5th among 180 students** in UT Austin's Data Analytics Program - **[Certificate](https://drive.google.com/file/d/1ewu6lVY8S54fZe0z9KLER44fi00S4W54/view?usp=sharing)**  
 
 ---
 

@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me  
 🚀 **Passionate about data-driven decision making**  
-💡 **2+ years of experience in Data Analytics & Machine Learning**  
+💡 **2+ years of experience in Data Analytics**  
 📊 **Skilled in**:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Python | SQL | Tableau | Power BI | Excel | Data Modeling | AI/ML <br>
 🌟 **Built models using**:  
